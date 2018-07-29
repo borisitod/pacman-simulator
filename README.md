@@ -19,9 +19,13 @@
 * Create an application that can read in commands of the following form -
 ```
 PLACE X,Y,F
+
 MOVE
+
 LEFT
+
 RIGHT
+
 REPORT
 ```
 
